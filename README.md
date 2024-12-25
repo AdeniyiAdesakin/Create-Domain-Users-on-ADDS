@@ -1,4 +1,4 @@
-<h1>Create Domain Users on ADDS</h1>
+<h1>Creating Domain Users on ADDS</h1>
 <p>This tutorial outlines how to create domain users in Active Directory Domain Services </p>
 
 <p>1. To create domain users on ADDS, from the server manager dashboard, click on tools and go to Active Directory Users and Computers</p>
